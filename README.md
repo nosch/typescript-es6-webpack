@@ -2,7 +2,7 @@
 
 ## What is it?
 
-A very simple webpack development stack for TypeScript + ES6.
+A simple webpack development stack for TypeScript + ES6.
 
 ## Requirements
 
